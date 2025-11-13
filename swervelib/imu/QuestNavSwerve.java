@@ -98,7 +98,7 @@ public class QuestNavSwerve extends SwerveIMU {
      */
     @Override
     public MutAngularVelocity getYawAngularVelocity() {
-        // TODO getYawAngularVelocity
+        return questNavSubsystem.getYawVelocity();
     }
 
     /**
