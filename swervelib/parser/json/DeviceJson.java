@@ -28,6 +28,9 @@ import swervelib.imu.Pigeon2Swerve;
 import swervelib.imu.PigeonSwerve;
 import swervelib.imu.PigeonViaTalonSRXSwerve;
 import swervelib.imu.SwerveIMU;
+
+import swervelib.imu.QuestNavSwerve;
+
 import swervelib.motors.SparkFlexSwerve;
 import swervelib.motors.SparkMaxBrushedMotorSwerve;
 import swervelib.motors.SparkMaxBrushedMotorSwerve.Type;
