@@ -10,6 +10,4 @@ import edu.wpi.first.wpilibj.smartdashboard.SmartDashboard;
 import java.util.Optional;
 import java.util.function.Supplier;
 
-public class QuestNavSwerve extends SwerveIMU {
-
-}
+//public class QuestNavSwerve extends SwerveIMU {}
