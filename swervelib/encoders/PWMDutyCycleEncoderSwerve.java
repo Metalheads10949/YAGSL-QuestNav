@@ -118,4 +118,13 @@ public class PWMDutyCycleEncoderSwerve extends SwerveAbsoluteEncoder
 
     return true;
   }
+
+  @Override
+  public void close() {
+    //I'm not sure what this is meant to do exactly but VScode is freaking out with this unimplemented
+    //I commented it all out
+    
+    // TODO Auto-generated method stub
+    //throw new UnsupportedOperationException("Unimplemented method 'close'");
+  }
 }
